@@ -1,14 +1,14 @@
 -------------------------------------
     6.1-0
 -------------------------------------
-Upgrade to Virtualbox 6.1
+Virtualbox 6.1 compatibility
 Support for PHP 8.1
+Drop support for PHP versions < 7.0
 
 -------------------------------------
     6.0-0   
 -------------------------------------
 Upgrade to Virtualbox 6.0
-
 
 -------------------------------------
     5.2-1   2018-11-09
@@ -20,7 +20,6 @@ Fix Import/Export - @tom077
 Russian translation fixes - @SvetlanaTkachenko
 Viewport and URL fixes - @krzysztof113
 Convert to unix file format to reduce size
-
 
 -------------------------------------
     5.2-0   2018-02-16

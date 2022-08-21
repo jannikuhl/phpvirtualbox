@@ -546,10 +546,10 @@ ul.vboxMenuBar li {
 #vboxProgressOps div.vboxProgressOpCancel { float: right; }
 #vboxProgressOps div.vboxProgressOpText { margin-left: 4px; }
 #vboxProgressOps div.vboxProgressOpElement div.vboxProgressBarContainer {
-	margin-left:4px;
-	text-align:'center';
-	padding:'2px';
-	width:'220px';
+	margin-left: 4px;
+	text-align: center;
+	padding: 2px;
+	width: 220px;
 	height: 100%;
 }
 #vboxProgressOps div.vboxProgressOpTitle {

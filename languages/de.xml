@@ -21,7 +21,7 @@
 		<!-- Error vmlist 1 -->
 		<message>
 			<source>There was an error obtaining the list of registered virtual machines from VirtualBox. Make sure vboxwebsrv is running and that the settings in config.php are correct.&lt;p&gt;The list of virtual machines will not begin auto-refreshing again until this page is reloaded.&lt;/p&gt;</source>
-			<translation>Beim Ermitteln der Liste virtueller Maschimen ist ein Fehler aufgetreten. Stellen Sie sicher, dass vboxwebsrv gestartet ist und die Einstellugen in der Datei config.php stimmen.&lt;p&gt;Die Liste der virtuellen Maschinen können Sie durch das erneute Laden dieser Seite aktualisieren.&lt;/p&gt;</translation>
+			<translation>Beim Ermitteln der Liste virtueller Maschinen ist ein Fehler aufgetreten. Stellen Sie sicher, dass vboxwebsrv gestartet ist und die Einstellungen in der Datei config.php stimmen.&lt;p&gt;Die Liste der virtuellen Maschinen können Sie durch das erneute Laden dieser Seite aktualisieren.&lt;/p&gt;</translation>
 		</message>
 		<message>
 			<source>Server List</source>
@@ -98,7 +98,7 @@
 		</message>
 		<message>
 			<source>Requested desktop size</source>
-			<translation>Angeforderte Bildschirmgöße</translation>
+			<translation>Angeforderte Bildschirmgröße</translation>
 		</message>
 		<message>
 			<source>Connect</source>
@@ -126,7 +126,7 @@
 		</message>
 		<message>
 			<source>Virtual machine is not running or is not configured to accept RDP connections.</source>
-			<translation>Die virtuelle Maschine läuft nicht oder sie ist nicht für Zugriffe über RDP konfiguriert.</translation>
+			<translation>Die virtuelle Maschine läuft nicht oder ist nicht für Zugriffe über RDP konfiguriert.</translation>
 		</message>
 	</context>		
 	<context>
@@ -228,7 +228,7 @@
 		</message>
 		<message>
 			<source>The passwords you have entered do not match.</source>
-			<translation>Die Passwörter die Sie eingegeben haben stimmen nicht überein.</translation>
+			<translation>Die Passwörter, die Sie eingegeben haben, stimmen nicht überein.</translation>
 		</message>
 		<message>
 			<source>Password changed.</source>
@@ -252,4 +252,3 @@
 		</message>		
 	</context>
 </language>
-

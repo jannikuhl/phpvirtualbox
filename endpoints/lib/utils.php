@@ -18,7 +18,7 @@ require_once(dirname(__FILE__).'/config.php');
  * 			to close the session after $_SESSION has been populated.
  * @uses $_SESSION
  */
-function session_init($keepopen = false) {
+function session_init(bool $keepopen = false): void {
 
 	$settings = new phpVBoxConfigClass();
 

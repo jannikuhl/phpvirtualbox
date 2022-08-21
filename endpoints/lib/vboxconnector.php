@@ -3949,7 +3949,7 @@ class vboxconnector {
 	 * @param int $slot optional slot of single network adapter to get
 	 * @return array of network adapter information
 	 */
-	private function _machineGetNetworkAdapters(&$m, $slot=false) {
+	private function _machineGetNetworkAdapters(&$m, $slot = false): array {
 
 		$adapters = array();
 

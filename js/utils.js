@@ -452,7 +452,7 @@ function vboxConvertMbytes(str) {
  * @param {Object} xtraOpts - extra options to apply to alert jquery dialog (optional)
  * @see jQuery.dialog()
  */
-function vboxAlert(e,xtraOpts) {
+function vboxAlert(e, xtraOpts = null) {
 
     var acknowledged = $.Deferred();
     
